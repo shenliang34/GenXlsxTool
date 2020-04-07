@@ -8,7 +8,7 @@ import { fileURLToPath } from "url";
 // import { MainWorker } from "./MainWorker";
 import { isMainThread, Worker } from "worker_threads";
 
-let configUrl: string = "res\\config.json";
+let configUrl: string = "res/config.json";
 let pathConfig: IPathConfig;
 
 
