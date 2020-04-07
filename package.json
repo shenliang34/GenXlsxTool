@@ -1,0 +1,28 @@
+{
+  "name": "genxlsxtool",
+  "version": "1.0.0",
+  "description": "gen xlsx file",
+  "main": "out/Main.js",
+  "scripts": {
+    "start": "node out/Main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/shenliang34/GenXlsxTool.git"
+  },
+  "author": "shenliangliang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shenliang34/GenXlsxTool/issues"
+  },
+  "homepage": "https://github.com/shenliang34/GenXlsxTool#readme",
+  "dependencies": {
+    "fs-extra": "^9.0.0",
+    "node-xlsx": "^0.15.0"
+  },
+  "bin": "out/Main.js",
+  "asset": {},
+  "devDependencies": {
+    "@types/node": "^13.11.0"
+  }
+}

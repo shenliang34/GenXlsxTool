@@ -1,0 +1,7 @@
+{
+    "outBinPath": "config\\",
+    "srcXlsxPath": "数值\\",
+    "outFileName": "config.bin",
+    "tmpTsFileUrl": "res\\tstmp\\config.tmp",
+    "outTsFilePath": "E:\\config\\ts\\"
+}
