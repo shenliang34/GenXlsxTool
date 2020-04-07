@@ -5,4 +5,3 @@
 3、npm i fs-extra
 4、npm i pkg -g
 5、pkg . -t win
-6、
